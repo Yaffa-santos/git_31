@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link ref="stylesheet" href="estilo.css">
 </head>
 <body>
     <h1>Versinamento com GIT/GITHUB</h1>
     <h2>Aula #1  11/09</h2>
     <p>Executando git commit</p>
+   
 </body>
 </html>
