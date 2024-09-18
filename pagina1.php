@@ -6,6 +6,7 @@
     <title>Pag one</title>
 </head>
 <body>
-    
+    <h1>pagina 1</h1>
+    <button>Ir para Página 2</button>
 </body>
 </html>
